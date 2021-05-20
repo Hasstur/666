@@ -9,7 +9,6 @@ namespace MORGEN.NPCs
     public class SquaretronHead : ModNPC
     {
         private int musicType;
-        private int textureChange;
         public override void SetStaticDefaults()
         {
             DisplayName.SetDefault("Squaretron");
