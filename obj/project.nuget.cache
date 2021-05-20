@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MyaURGLNCNlSpVIwTsgHOoT/DYzKdL3nM5/53GQden6bUSEFIVbs7Tm14IfDqWafsZhMK9EUyrpJc/Wan53kCg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hastur\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\MORGEN\\MORGEN.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hastur\\.nuget\\packages\\tmodloader.codeassist\\0.1.2\\tmodloader.codeassist.0.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

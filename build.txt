@@ -1,0 +1,9 @@
+author = Assatur, industrial.illusions
+version = 1.0
+displayName = [c/4169E1:LEGENDARY MOD]
+hideCode = true
+hideResources = true
+includeSource = true
+buildIgnore = .gitignore, *.sln, *.csproj, *.user, obj\*, bin\*,.vs\*, Properties\*, .git\*,  
+includePDB = true
+
