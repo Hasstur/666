@@ -1,5 +1,5 @@
 author = Assatur, industrial.illusions
-version = 1.0
+version = 1.0.1
 displayName = [c/4169E1:LEGENDARY MOD]
 hideCode = true
 hideResources = true
